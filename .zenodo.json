@@ -1,0 +1,8 @@
+{
+  "title": "NGS pipelines for Illumina data: full commands",
+  "description": "Complete command lines, repositories and server notes for the secondary and tertiary analysis of Illumina sequencing data (trimming, quality control, alignment, assembly, variant calling, annotation, expression, pathways, association, miRNA, methylation), companion to the paper 'What can the university do with its Illumina sequencer: analyses, Galaxy pipelines and conditions for their use' (Annual of Assen Zlatarov University, Burgas, 2026). Options were checked on an aarch64 Galaxy server.",
+  "upload_type": "software",
+  "creators": [{"name": "Panchev, Dobromir", "affiliation": "Assen Zlatarov University, Burgas, Bulgaria"}],
+  "license": "CC-BY-4.0",
+  "keywords": ["Illumina", "NGS", "Galaxy", "bioinformatics", "pipelines", "aarch64"]
+}

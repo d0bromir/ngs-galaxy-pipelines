@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these commands, please cite them as below."
+title: "NGS pipelines for Illumina data: full commands"
+type: software
+authors:
+  - family-names: Panchev
+    given-names: Dobromir
+    affiliation: "Assen Zlatarov University, Burgas, Bulgaria"
+repository-code: "https://github.com/d0bromir/ngs-galaxy-pipelines"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-10-07"
+keywords: [Illumina, NGS, Galaxy, bioinformatics, pipelines, aarch64]
