@@ -2,8 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23222172.svg)](https://doi.org/10.5281/zenodo.23222172)
 
-Companion to the paper *What can the university do with its Illumina sequencer: analyses, Galaxy
-pipelines and conditions for their use* (Annual of Assen Zlatarov University, Burgas, 2026).
+Companion to the paper *High-performance processing of Illumina sequencing data: Galaxy pipelines,
+tools and parallelisation on an ARM-GPU server* (Annual of Assen Zlatarov University, Burgas, 2026).
 Table 3 of the paper gives each program with its repository and a short call; this page gives the
 complete command line for paired-end Illumina data.
 
