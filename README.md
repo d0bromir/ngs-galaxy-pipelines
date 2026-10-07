@@ -25,8 +25,8 @@ the script is [`check_tools.sh`](check_tools.sh). Options marked ◦ were checke
 own README. The calls show the options; they were not run on real data.
 
 **Citation.** Panchev, D. NGS pipelines for Illumina data: full commands (software), 2026.
-DOI [10.5281/zenodo.23222173](https://doi.org/10.5281/zenodo.23222173) (v1.0.0); all versions:
-[10.5281/zenodo.23222172](https://doi.org/10.5281/zenodo.23222172).
+DOI [10.5281/zenodo.23222172](https://doi.org/10.5281/zenodo.23222172) (all versions; v1.0.1:
+[10.5281/zenodo.23222380](https://doi.org/10.5281/zenodo.23222380)).
 
 **ARM note.** The server is aarch64. Install tools from Bioconda (it has aarch64 builds); most
 BioContainers images are x86-only. NVIDIA Parabricks needs an NVIDIA Grace CPU on ARM and stops
