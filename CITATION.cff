@@ -9,5 +9,6 @@ authors:
 repository-code: "https://github.com/d0bromir/ngs-galaxy-pipelines"
 license: CC-BY-4.0
 version: "1.0.0"
+doi: "10.5281/zenodo.23222172"
 date-released: "2026-10-07"
 keywords: [Illumina, NGS, Galaxy, bioinformatics, pipelines, aarch64]

@@ -1,5 +1,7 @@
 # NGS pipelines for Illumina data: full commands
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23222172.svg)](https://doi.org/10.5281/zenodo.23222172)
+
 Companion to the paper *What can the university do with its Illumina sequencer: analyses, Galaxy
 pipelines and conditions for their use* (Annual of Assen Zlatarov University, Burgas, 2026).
 Table 3 of the paper gives each program with its repository and a short call; this page gives the
@@ -21,6 +23,10 @@ for running the same step on the server's shell or for checking what a Galaxy to
 aarch64, Ubuntu 25.10) on 7 October 2026 against the `--help` output of the Bioconda version given;
 the script is [`check_tools.sh`](check_tools.sh). Options marked ◦ were checked against the tool's
 own README. The calls show the options; they were not run on real data.
+
+**Citation.** Panchev, D. NGS pipelines for Illumina data: full commands (software), 2026.
+DOI [10.5281/zenodo.23222173](https://doi.org/10.5281/zenodo.23222173) (v1.0.0); all versions:
+[10.5281/zenodo.23222172](https://doi.org/10.5281/zenodo.23222172).
 
 **ARM note.** The server is aarch64. Install tools from Bioconda (it has aarch64 builds); most
 BioContainers images are x86-only. NVIDIA Parabricks needs an NVIDIA Grace CPU on ARM and stops
